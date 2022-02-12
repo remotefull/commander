@@ -1,7 +1,7 @@
 {
   "name": "@remotefull/commander",
   "description": "Executing commands on remote servers made easy.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
